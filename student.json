@@ -1,0 +1,19 @@
+{
+  "firstName": "Ira",
+  "lastName": "Kovalenko",
+  "age": 15,
+  "married": false,
+  "taxId": 787800,
+  "friends": [
+    ["Tim", 14],
+    ["Olia", 13],
+    ["Ivan", 17]
+  ],
+  "address": {
+    "country": "UA",
+    "city": "Lviv",
+    "zip": "00317",
+    "postal": true
+  },
+  "phoneNumber": "+380976543211"
+}

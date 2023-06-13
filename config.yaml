@@ -1,0 +1,13 @@
+student:
+  name: Ira
+  firstname : Kovalenko
+  age: 15
+  married: False
+  children: null
+  taxid: 787800
+  friends: Tim 14, Olia 13, Ivan 17
+  country: UA
+  city: Lviv
+  zip: 00317
+  postal: true
+  phonenamber: 380976543211
