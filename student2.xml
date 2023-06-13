@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student>
+    <firstName>Ira</firstName>
+    <lastName>Kovalenko</lastName>
+    <age>15</age>
+    <maried>false</maried>
+    <taxID>787800</taxID>>
+    <friends>Tim 14, Olia 13, Ivan 17</friends>>
+    <country>UA</country>
+    <city>Lviv</city>>
+    <zip>00317</zip>
+    <postal>true</postal>
+    <phonenumber>+380976543211</phonenumber>
+</student>
